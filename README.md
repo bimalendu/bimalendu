@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bimalendu
+- 👀 I’m interested in building CMS, Web Scrapers and AI based approach to day to day activity on the internet 
+- 🌱 I’m currently learning GO, Django, Python, Java and C#
+- 💞️ I’m looking to collaborate on developing open source CMS, LMS and e-commerce solutions
+- 📫 You can reach me through my LinkedIn Profile, Email etc.
