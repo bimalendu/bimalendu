@@ -1,5 +1,5 @@
 -  Hi, I’m @bimalendu
--  I have developed Wordpress websites for over 4 years.
-- 🌱 I’m currently learning Vue, Java and Python
-- 💞️ I’m looking forward to collaborate on open source solutions
-- 📫 You can reach me through my LinkedIn profile or Email etc.
+-  I have developed Wordpress websites for past 4 years.
+-  I’m currently learning Java and Python
+-  I’m looking forward to collaborate on open source solutions
+-  You can reach me through my LinkedIn profile or Email etc.
