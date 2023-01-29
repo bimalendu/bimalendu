@@ -1,4 +1,3 @@
 -  Hi, I’m @bimalendu
 -  I have developed Wordpress websites for past 4 years.
 -  I’m looking forward to collaborate on open source solutions
--  You can reach me through my LinkedIn profile.
