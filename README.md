@@ -1,3 +1,3 @@
 -  Hi, I’m @bimalendu
--  I have developed Wordpress websites for past 4 years.
--  I’m looking forward to collaborate on open source solutions
+-  As a python developer, I have been using AI to build tools which I personally use in my daily activities
+-  I’m looking forward to collaborate with you on open source solutions
