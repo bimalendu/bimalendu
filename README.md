@@ -1,3 +1,5 @@
 -  Hi, I’m @bimalendu
--  As a python developer, I have been using AI to build tools which I personally use in my daily activities
+-  A technology agnostic developer using Claude to build every day tools
+-  Interested in game development, progressive web apps, composing music, mobile apps and content management systems
+-  Available for hire on contractual/full time or part time basis
 -  I’m looking forward to collaborate with you on open source solutions
